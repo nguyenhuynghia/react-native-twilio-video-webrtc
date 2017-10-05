@@ -26,7 +26,10 @@
     "babel-eslint": "^7.2.3",
     "gulp-react-docs": "^0.1.2",
     "react-docgen": "^2.15.0",
-    "standard": "^10.0.3"
+    "standard": "^10.0.3",
+    "react": "*",
+    "react-native": "*",
+    "react-test-renderer": "15.5.4"
   },
   "dependencies": {
     "del": "^3.0.0",
